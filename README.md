@@ -3,4 +3,4 @@ A circuit designed to send commands to a drone that it controls. The inputs to t
 The six aluminium squares were controlls that were responsible for increasing or decreasing the values of roll, pitch, and yaw of the drone.
 A Raspberry Pi Pico was used to determine the exact messages that could be sent to the HC-12 transceiver that would transmitt the commands to the drone.
 
-See the .jpeg for an image of the assembled PCB.
+See the .jpg for an image of the assembled PCB.
